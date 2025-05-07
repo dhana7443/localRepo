@@ -1,0 +1,1 @@
+console.log("I'm related to user model");
